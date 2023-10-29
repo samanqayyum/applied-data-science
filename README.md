@@ -1,2 +1,2 @@
-# demo
-demo of repo creation
+# applied_data_science
+
